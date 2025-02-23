@@ -1,7 +1,8 @@
 ## Learning Activities & Resources
-youtube link for joomla tutorial - https://www.youtube.com/watch?v=2q-TyP0_VMg
+### youtube link for joomla tutorial - 
+https://www.youtube.com/watch?v=2q-TyP0_VMg
 
-youtube link for formatting text in joomla - https://www.youtube.com/watch?v=CmZZrtHN2Xs
+### youtube link for formatting text in joomla - https://www.youtube.com/watch?v=CmZZrtHN2Xs
 
 ## Estimated Hours
 6 hours
