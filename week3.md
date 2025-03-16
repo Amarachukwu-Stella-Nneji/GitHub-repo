@@ -4,7 +4,11 @@ Though I didn’t engage in new learning activities directly, I applied my knowl
 One valuable lesson came when I mistakenly corrected a link on my WordPress site, resulting in an error. I researched how to fix the broken link and regain the proper link
 
 ## Estimated Hours
+<<<<<<< HEAD
 3 hours
+=======
+2 hours
+>>>>>>> 13c9ae30f0c0532e2601f84d2449f8aa55f7ff34
 
 ## Content Insights from the group work formation
 

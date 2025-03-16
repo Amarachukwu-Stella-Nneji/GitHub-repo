@@ -1,4 +1,5 @@
 ## Learning Activities & Resources
+<<<<<<< HEAD
 ### youtube link for joomla tutorial - 
 https://www.youtube.com/watch?v=2q-TyP0_VMg
 
@@ -7,6 +8,14 @@ https://www.youtube.com/watch?v=CmZZrtHN2Xs
 
 ## Estimated Hours
 2 hours
+=======
+youtube link for joomla tutorial - https://www.youtube.com/watch?v=2q-TyP0_VMg
+
+youtube link for formatting text in joomla - https://www.youtube.com/watch?v=CmZZrtHN2Xs
+
+## Estimated Hours
+6 hours
+>>>>>>> 13c9ae30f0c0532e2601f84d2449f8aa55f7ff34
 
 ## Content Insights 
 I learned that Joomla organizes its content into Articles, which are the main components of the site, and Menus are used to link these articles and other pages together, creating navigation for the website.
