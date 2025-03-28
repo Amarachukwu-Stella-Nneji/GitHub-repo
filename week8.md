@@ -26,12 +26,16 @@ But now i tried just watching the video, try to understand it without interrupti
 Choose two different lecture videos from coursework.
 ### Step 2: Apply Two Different Note-Taking Methods
 Watch the first lecture video while actively taking notes, writing down key points and additional information mentioned by the lecturer.
-Watch the second lecture video without taking notes. Every 10 minutes, pause and write down everything understood from memory.
+
+Watch the second lecture video without taking notes. After some minutes, pause and write down everything understood from memory.
 ### Step 3: Compare Results
 ### Analyze:
 Which method helped recall more key points accurately?
+
 Did I find delayed note-taking more engaging?
+
 Which method made reviewing easier and more effective?
+
 If I remember more from the delayed note-taking,then it supports the hypothesis that this method improves retention and understanding.
 
 ## Results:
